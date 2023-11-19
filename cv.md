@@ -16,3 +16,46 @@ I am currently studying at RS School. I would like to become a Web Developer and
 - HTML5
 - CSS3
 - Javascript 
+
+## Code Example
+
+**Program  checks if the number is positive, negative or zero**.
+
+*// input from the user*
+
+**const number** = parseInt(prompt("Enter a number: "));
+
+*// check if number is greater than 0*
+
+*if* (number > 0) {
+
+   **console.log("The number is positive")**;
+    
+}
+
+*// check if number is 0*
+
+*else if* (number == 0) 
+
+{
+
+  **console.log("The number is zero")**;
+  
+}
+
+// if number is less than 0
+
+*else* 
+
+{
+
+   **console.log("The number is negative")**;
+     
+}
+
+
+## Work Experience
+
+* **Content-moderator** -Majorel Georgia (01.08.2020-10.03.2023)
+    
+*  **DCFTA Informational Center Expert** -Georgian Chamber Commerce and Industry (01/08/2018–01.02.2020)
