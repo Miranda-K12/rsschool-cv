@@ -76,3 +76,11 @@ I am currently studying at RS School. I would like to become a Web Developer and
 
 - **Georgian** - Native
 - **English** - B2
+
+## Courses
+
+- **RS Shcool** - JS/FE Course EN 2023Q4
+ 
+- **Responsive Web Design** -issued by www.freecodecamp.org, October 21, 2023
+
+- **HTML5 and CSS3 Fundamentals**  -Udemy, Created by Stone River eLearning
