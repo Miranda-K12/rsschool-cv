@@ -59,3 +59,20 @@ I am currently studying at RS School. I would like to become a Web Developer and
 * **Content-moderator** -Majorel Georgia (01.08.2020-10.03.2023)
     
 *  **DCFTA Informational Center Expert** -Georgian Chamber Commerce and Industry (01/08/2018–01.02.2020)
+
+
+## Education
+
+ 
+- **Master of Business Administration** Gori State University, 2014-2017 years.
+
+- **Faculty of Economics** -Erasmus Mundus Exchange programme scholarship holder/Master Level-Vilnius University, 2015-2016 years
+
+- **Bachelor of Business Administration** - Gori State University, 2010-2014 years.
+
+- **Faculty of Management** -Erasmus Mundus Exchange programme scholarship holder/Bachelor Level-International Hellenic University, 2011-2012 years.
+
+## Languages
+
+- **Georgian** - Native
+- **English** - B2
