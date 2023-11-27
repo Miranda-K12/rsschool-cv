@@ -84,7 +84,10 @@ if (number > 0) {<br>
 
 <section id="Languages">
 <h2>Languages</h2>
-
+<ul>
+  <li><b>Georgian</b> - Native</li>
+  <li><b>English</b> - B2</li>
+</ul>
 </section>
 <section id="courses">
 
